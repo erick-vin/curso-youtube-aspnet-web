@@ -1,0 +1,15 @@
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.exe
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.deps.json
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.runtimeconfig.json
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.dll
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.pdb
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.csproj.AssemblyReference.cache
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.AssemblyInfoInputs.cache
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.AssemblyInfo.cs
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.csproj.CoreCompileInputs.cache
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.dll
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\refint\ServidorHttpSimples.dll
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.pdb
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.genruntimeconfig.cache
+C:\aprendizado\projectsCS\DesenvolvimentoWebcomASPNET\ServidorHttpSimples\obj\Debug\net6.0\ref\ServidorHttpSimples.dll
